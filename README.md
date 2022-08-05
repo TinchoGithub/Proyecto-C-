@@ -8,13 +8,13 @@ Abarca los siguientes temas ----> Herencia|Composicion de Clases|Polimorfismo|Re
 
 La aplicacion realiza las siguientes tareas ---->
 
-- Agregar Cliente: Crea un nuevo cliente, si es que no esta en la base de datos (clientes activos o clientes inactivos), elige un combo, se le asigna un tecnico dependiendo a zona y se le asigna un combo plus si le corresponde.
+- Agregar Cliente: Crea un nuevo cliente, si es que no esta en la base de datos (clientes activos o clientes inactivos), elige un combo, se le asigna un tecnico dependiendo la zona y se le asigna un combo plus si le corresponde.
 
 - Eliminar un Cliente: Pasa el cliente a inactivo (no lo elimina).
 
 - Agregar tecnico: Permite agregar un nuevo tecnico a la empresa.
 
-- Imprimir tecnico por zona: Buscar un tecnico ingresado por el usuario por medio de la zona (localidad)
+- Imprimir tecnico por zona: Busca un tecnico por medio de la zona (localidad)
 
 - Imprimir cliente segun codigo: Imprime los datos del cliente por medio del codigo (id)
 
