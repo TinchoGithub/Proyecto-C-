@@ -3,7 +3,9 @@
 ### Descripcion
 
 Proyecto realizado para final de la materia Algoritmos y programacion de la carrera Ingenieria en Informatica.
+
 Programa desarrollado con el paradigama orientado a objetos (POO), la misma simula la gestion de una empresa de cable, telefonia e internet.
+
 Abarca los siguientes temas ----> Herencia|Composicion de Clases|Polimorfismo|Recursividad|Ordenamiento
 
 La aplicacion realiza las siguientes tareas ---->
